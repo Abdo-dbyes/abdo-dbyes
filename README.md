@@ -5,13 +5,10 @@ I'm Abdurrazzak from Syria, and I am a Front-End Developer.
 I enjoy learning languages and frameworks like React JS, and I enjoy coding website apps.
 
 ## Skills
-*⚛️ REACT
-*💻 HTML / CSS / JS
-*🕐BootStrap / SASS
- Markup : - Bullet list
-              - Nested bullet
-                  - Sub-nested bullet etc
-          - Bullet list item 2 
+*⚛️ REACT<br/>
+*💻 HTML / CSS / JS<br/>
+*🕐BootStrap / SASS<br/>
+
 ## Examples of work
 <a href="https://abdo-dbyes.github.io/Idlib-Social/" target="_blank" ><img src="https://github.com/Abdo-dbyes/Mobile-design/blob/main/%E2%80%8FIdlibSocial.png" width="250" height="200"/> </a>
 <a href="https://abdo-dbyes.github.io/Template-3/#" target="_blank" ><img src="https://github.com/Abdo-dbyes/Mobile-design/blob/main/LandingPage.png" width="250" height="200"/> </a>
