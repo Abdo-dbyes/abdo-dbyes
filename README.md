@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Abdurrazzak Dbyes from syria, and I am a Front-End Developer.
+I realy enjoy learning lanyeges and framework like React JS, and I enjoy to code the website apps.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdo)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Abdo-dbyes/abdo-dbyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
