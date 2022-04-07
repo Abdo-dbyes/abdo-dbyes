@@ -5,9 +5,9 @@ I'm Abdurrazzak from Syria, and I am a Front-End Developer.
 I enjoy learning languages and frameworks like React JS, and I enjoy coding website apps.
 
 ## Skills
- ⚛️ REACT
- 💻 HTML / CSS / JS
- 🕐BootStrap / SASS
+*⚛️ REACT
+*💻 HTML / CSS / JS
+*🕐BootStrap / SASS
 
 ## Examples of work
 <a href="https://abdo-dbyes.github.io/Idlib-Social/" target="_blank" ><img src="https://github.com/Abdo-dbyes/Mobile-design/blob/main/%E2%80%8FIdlibSocial.png" width="250" height="200"/> </a>
