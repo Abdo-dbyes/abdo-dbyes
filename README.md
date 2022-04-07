@@ -8,9 +8,10 @@ I enjoy learning languages and frameworks like React JS, and I enjoy coding webs
 *⚛️ REACT
 *💻 HTML / CSS / JS
 *🕐BootStrap / SASS
- Markup : *⚛️ REACT
-          *💻 HTML / CSS / JS
-          *🕐BootStrap / SASS
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
 ## Examples of work
 <a href="https://abdo-dbyes.github.io/Idlib-Social/" target="_blank" ><img src="https://github.com/Abdo-dbyes/Mobile-design/blob/main/%E2%80%8FIdlibSocial.png" width="250" height="200"/> </a>
 <a href="https://abdo-dbyes.github.io/Template-3/#" target="_blank" ><img src="https://github.com/Abdo-dbyes/Mobile-design/blob/main/LandingPage.png" width="250" height="200"/> </a>
